@@ -21,7 +21,6 @@ This repository contains four assembly-language programs developed for the Compu
 | **Matric Number** | 25006149 |
 | **Course / Section** | WIA1003 COMPUTER SYSTEM ARCHITECTURE |
 | **Lecturer** | DR. BRYAN RAJ A/L PETER JABARAJ |
-| **Submission Date** | 8/6/2026 |
 
 ---
 
