@@ -224,7 +224,7 @@ main ENDP
 end main
 ```
 
-*(Note: Refer to `images/Q3_Output.png` in the repository for the output visualization).*
+*(Note: Refer to `images/Q3_Output_1.png` and `images/Q3_Output_2.png` in the repository for the output visualization).*
 
 ---
 
@@ -317,7 +317,7 @@ main ENDP
 end main
 ```
 
-*(Note: Refer to `images/Q4_Output.png` in the repository for the output visualization).*
+*(Note: Refer to `images/Q4_Output_1.png` and `images/Q4_Output_2.png` in the repository for the output visualization).*
 
 ---
 
